@@ -1,10 +1,10 @@
-# 🌸 Nelirose Retirement Home Website
+# Nelirose Retirement Home Website
 
 This project is a responsive website created for **Nelirose Retirement Home**, designed to provide information about the home, its services, and the care offered to residents.
 
 
 
-## 📌 Project Overview
+## Project Overview
 
 The Nelirose website was developed to create a warm, welcoming, and informative online space where families and potential residents can learn more about the retirement home. 
 
@@ -12,7 +12,7 @@ The focus of the design is on clarity, accessibility, and trust.
 
 
 
-## ✨ Features
+## Features
 
 - Responsive design (mobile, tablet, and desktop friendly)
 - Clean and calming user interface
@@ -26,7 +26,7 @@ The focus of the design is on clarity, accessibility, and trust.
 
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -34,7 +34,7 @@ The focus of the design is on clarity, accessibility, and trust.
 
 
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 This project was created to:
 
@@ -45,7 +45,7 @@ This project was created to:
 
 
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
    ```bash
