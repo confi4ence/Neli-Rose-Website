@@ -1,5 +1,5 @@
 /* =============================================
-   NELI-ROSE RETIREMENT HOME — HOME.CSS
+   NELI-ROSE RETIREMENT HOME- HOME.CSS
    Shared stylesheet used across ALL pages.
    Contains: CSS variables, base styles, navbar,
    buttons, hero, stats strip, sections,
@@ -50,7 +50,7 @@
 /* ---- GLOBAL RESET ----
    Removes default browser margin/padding.
    box-sizing: border-box means padding is included
-   inside element widths — avoids layout surprises. */
+   inside element widths  avoids layout surprises. */
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
@@ -60,7 +60,7 @@
 /* Smooth scrolling when anchor links are clicked */
 html { scroll-behavior: smooth; }
 
-/* Base body — font, background, text colour, no horizontal overflow */
+/* Base body  font, background, text colour, no horizontal overflow */
 body {
   font-family: 'DM Sans', sans-serif;
   background: var(--white);
